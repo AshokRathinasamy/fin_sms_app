@@ -2,6 +2,9 @@
   "model_name": "sms_classifier",
   "version": "1.0",
   "debugLogging": true,
+  "classifier_version":4,
+  "ner_version":5,
+  "ocr_ner_version":6,
   "classifier_url": "https://github.com/AshokRathinasamy/fin_sms_app/releases/download/v4.0/classification_model.tflite",
   "ner_url": "https://github.com/AshokRathinasamy/fin_sms_app/releases/download/v5/ner_model.tflite",
   "ocr_ner_url":"https://github.com/AshokRathinasamy/fin_sms_app/releases/download/v6/ocr_ner_model.tflite"
