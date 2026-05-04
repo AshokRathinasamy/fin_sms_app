@@ -9,5 +9,5 @@
   "ner_url": "https://github.com/AshokRathinasamy/fin_sms_app/releases/download/v5/ner_model.tflite",
   "ocr_ner_url":"https://github.com/AshokRathinasamy/fin_sms_app/releases/download/v6/ocr_ner_model.tflite",
   "developer_code":123,
-  "version_code":10
+  "version_code":11
 }
